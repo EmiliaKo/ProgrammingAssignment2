@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------#
 # R Programming coursera course 
 # author     : Emilia 
-#last edited : 
+#last edited : 19-07-2014
 #-----------------------------------------------------------------------------#
 
 ## makeCacheMatrix --> create special object to catch matrix inverse
